@@ -1,0 +1,33 @@
+
+How to choose the Best regression model: (Article 4)
+
+Article analysis:
+
+  In this article the author focuses on statistical methods used for finding the best regaression model.
+
+The bottomline being lower P values for predictors and higher Adjusted R squared and predicted R squared values,
+i.e. lower P values indicate that the terms are statistically significant and higher confidence rate.
+
+It also talks about real world complications that a selected model can have. 
+For example, as per the author
+1) the results of the variables can be also be biased by significant variables NOT included or omitted i.e. the results are not just based on what's included.
+2) Testing lot of models can have variables that are co-related by chance (co-incidence) but not by significance.
+
+
+Further the author has given recommendations on finding the best regression 
+According to the author of the article
+a) Theory: "Building on results of others makes it easier to collect right data and choose regression model and theoritical considerations should not be ignored based only on statistical methods.
+b) complexity: simpler models product more precise predictions.
+c) residual Plots: "The simplest model that produces random residuals is a good candidate for being a relatively precise and unbiased model".
+
+
+
+
+
+
+
+My feedback:
+    The article doesn't take into consideration the "ease to understand or the "interpretability" towards choosing the right model.
+    Secondly the article doesn't take into consideration the pros and cons of all different regression models 
+    Also, the type of dataset (volume or quality) is not taken into consideration. For example for a larger dataset KNN regressor model is more suited or for smaller dataset Decision Tree modeis more suited.
+
