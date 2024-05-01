@@ -24,10 +24,10 @@ c) residual Plots: "The simplest model that produces random residuals is a good 
 
 
 
-
-
 My feedback:
     The article doesn't take into consideration the "ease to understand or the "interpretability" towards choosing the right model.
     Secondly the article doesn't take into consideration the pros and cons of all different regression models 
     Also, the type of dataset (volume or quality) is not taken into consideration. For example for a larger dataset KNN regressor model is more suited or for smaller dataset Decision Tree modeis more suited.
 
+
+source of article: Article Link: https://blog.minitab.com/blog/how-to-choose-the-best-regression-model
